@@ -1,0 +1,6 @@
+[submodule "submodules/wavenet"]
+	path = submodules/wavenet
+	url = https://github.com/ashellwig/tensorflow-wavenet
+[submodule "submodules/textgen"]
+	path = submodules/textgen
+	url = https://github.com/ashellwig/textgenrnn.git
